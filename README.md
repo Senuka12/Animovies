@@ -1,0 +1,3 @@
+# Animovies
+Watch Animated Movies for free...
+Animovies is a mobile app and a website, where anyone can watch animated movies for free and also download movies.
